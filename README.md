@@ -1,1 +1,48 @@
 # MovieRecommendationSystem
+
+## Overview
+Movie Recommendation System project provides personalized movie recommendations based on user preferences. The system is built using Python, Flask, and Streamlit to ensure a seamless and engaging experience.
+
+## Key Features
+
+- **User-Friendly Interface**: A sleek web interface developed with Streamlit.
+- **Intelligent Recommendations**: Utilized content-based filtering algorithms for personalized and intelligent movie suggestions.
+- **Data Processing**: Explored diverse movie datasets for a comprehensive recommendation engine.
+
+## Tech Stack
+
+- **Backend**: Python, Flask
+- **Frontend**: Streamlit
+
+## Getting Started
+
+### Prerequisites
+
+1. Make sure you have Python and pip installed on your system.
+2. Download similarity.pkl file from [similarity.pkl](insert_similarity_link_here) and place it in the root directory of the project before running the system.
+
+### Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/rushithaM/MovieRecommendationSystem.git
+
+2. **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+
+3. **Download Similarity File:**
+   Click [here](insert_similarity_link_here) to download the `similarity.pkl` file.
+
+4. **Place the File in the Root Directory:**
+   Once downloaded, place the `similarity.pkl` file in the root directory of the project.
+
+5. **Run the System:**
+   ```bash
+   streamlit run app.py
+
+### Snapshots of Movie Recommendation System
+  ![image](https://github.com/RushithaM/MovieRecommendationSystem/assets/151159899/53be57a6-1720-49db-8a76-d2573b8cc327)
+  ![image](https://github.com/RushithaM/MovieRecommendationSystem/assets/151159899/771de452-dc10-494a-af29-f20d658ef2cb)
+
+
+
