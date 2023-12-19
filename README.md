@@ -19,7 +19,7 @@ Movie Recommendation System project provides personalized movie recommendations 
 ### Prerequisites
 
 1. Make sure you have Python and pip installed on your system.
-2. Download similarity.pkl file from [similarity.pkl](insert_similarity_link_here) and place it in the root directory of the project before running the system.
+2. Download similarity.pkl file from [similarity.pkl](https://drive.google.com/file/d/1--da4BtCz3w5urayJvxqsoE6fyR16Ze2/view?usp=drivesdk) and place it in the root directory of the project before running the system.
 
 ### Installation
 1. **Clone the Repository:**
@@ -31,7 +31,7 @@ Movie Recommendation System project provides personalized movie recommendations 
     pip install -r requirements.txt
 
 3. **Download Similarity File:**
-   Click [here](insert_similarity_link_here) to download the `similarity.pkl` file.
+   Click [here](https://drive.google.com/file/d/1--da4BtCz3w5urayJvxqsoE6fyR16Ze2/view?usp=drivesdk) to download the `similarity.pkl` file.
 
 4. **Place the File in the Root Directory:**
    Once downloaded, place the `similarity.pkl` file in the root directory of the project.
